@@ -19,5 +19,4 @@ Tenho experiência prática com diagnóstico e solução de problemas em hardwar
 - Engenharia da Computação  
 
 ## 📫 Contato
-- LinkedIn: (coloque seu link)
-- Email: (opcional)
+- LinkedIn: (https://www.linkedin.com/in/brenoluzc/)
